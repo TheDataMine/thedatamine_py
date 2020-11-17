@@ -3,7 +3,7 @@ import pathlib
 
 ROOT = pathlib.Path(__file__).parent
 
-VERSION = '0.1.2'
+VERSION = '0.1.3'
 PACKAGE_NAME = 'thedatamine'
 AUTHOR = 'Kevin Amstutz'
 AUTHOR_EMAIL = 'kevin@amstutz.io'
