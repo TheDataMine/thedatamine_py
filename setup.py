@@ -7,7 +7,7 @@ VERSION = '0.1.0'
 PACKAGE_NAME = 'thedatamine'
 AUTHOR = 'Kevin Amstutz'
 AUTHOR_EMAIL = 'kevin@amstutz.io'
-URL = 'https:/github.com/TheDataMine/thedatamine_py'
+URL = 'https://github.com/TheDataMine/thedatamine_py'
 
 LICENSE = 'Apache License 2.0'
 DESCRIPTION = 'Course package for Purdue University\'s integrative data science initiative, The Data Mine.'
